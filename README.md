@@ -1,3 +1,3 @@
 Demo-repository-SoftUni
 
-This is Demo-reposotory for Software Technology 
+This is Demo-repository for Software Technology 
